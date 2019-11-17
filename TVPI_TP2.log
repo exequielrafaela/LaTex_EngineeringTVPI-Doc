@@ -1,0 +1,933 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.15)  11 MAR 2012 20:47
+entering extended mode
+ %&-line parsing enabled.
+**TVPI_TP2.tex
+(./TVPI_TP2.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, spanish, galician, catalan, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(/usr/share/texmf-texlive/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@datefmt=\count89
+\es@quottoks=\toks19
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count95
+\mult@box=\box26
+\multicol@leftmargin=\dimen108
+\c@unbalance=\count96
+\c@collectmore=\count97
+\doublecol@number=\count98
+\multicoltolerance=\count99
+\multicolpretolerance=\count100
+\full@width=\dimen109
+\page@free=\dimen110
+\premulticols=\dimen111
+\postmulticols=\dimen112
+\multicolsep=\skip46
+\multicolbaselineskip=\skip47
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count101
+\c@finalcolumnbadness=\count102
+\last@try=\dimen113
+\multicolovershoot=\dimen114
+\multicolundershoot=\dimen115
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/ulem.sty
+\UL@box=\box52
+\UL@hyphenbox=\box53
+\UL@skip=\skip48
+\UL@hook=\toks23
+\UL@pe=\count103
+\UL@pixel=\dimen116
+\ULC@box=\box54
+Package: ulem 2000/05/26
+\ULdepth=\dimen117
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen118
+\Hy@linkcounter=\count104
+\Hy@pagecounter=\count105
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count106
+\Field@Width=\dimen119
+\Fld@charsize=\dimen120
+\Field@toks=\toks24
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+) (./TVPI_TP2.aux)
+\openout1 = `TVPI_TP2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 36.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen121
+\scratchbox=\box55
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen122
+\MPnumerator=\count115
+\everyMPtoPDFconversion=\toks26
+)
+Package hyperref Info: Link coloring OFF on input line 36.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count116
+)
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+ (./TVPI_TP2.out)
+(./TVPI_TP2.out)
+\@outlinefile=\write3
+\openout3 = `TVPI_TP2.out'.
+
+\AtBeginShipoutBox=\box56
+ (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+
+Overfull \hbox (14.6362pt too wide) in paragraph at lines 39--39
+ [][] 
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/LogoUBP.jpg, id=87, 423.0204pt x 161.
+6439pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/LogoUBP.jpg Graphic file (type j
+pg)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/LogoUBP.jpg>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 50.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/delivery/Desktop/TVP
+ILatex/Figuras/LogoUBP.jpg>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 55.
+ (./TVPI_TP2.toc
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 16.
+)
+\tf@toc=\write4
+\openout4 = `TVPI_TP2.toc'.
+
+ (./TVPI_TP2.lof
+Overfull \hbox (1.63069pt too wide) in paragraph at lines 8--8
+ [][] [][]\T1/ptm/m/it/10.95 Características Utah Scien-ti-fic Mas-ter Switcher
+-400-HD/SD Chan- 
+ []
+
+[2])
+\tf@lof=\write5
+\openout5 = `TVPI_TP2.lof'.
+
+ [3]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 65.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--77
+
+ []
+
+[1]
+Overfull \hbox (0.11671pt too wide) in paragraph at lines 90--90
+[]\T1/ptm/b/n/12 Modificaciones, in-cor-po-ra-ción de dis-po-si-ti-vos y pro-gr
+a-ma-ción del
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig1.png, id=222, 491.8375pt x 360.34
+625pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig1.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig1.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig3.png, id=223, 710.655pt x 333.245
+pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig3.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig3.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2] [3 </home/delivery/Desktop/TVPILatex/Figuras/Fig1.png (PNG copy)> </home/de
+livery/Desktop/TVPILatex/Figuras/Fig3.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig4.png, id=232, 700.6175pt x 643.40
+375pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig4.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig4.png>
+</home/delivery/Desktop/TVPILatex/Figuras/Fig5.png, id=233, 700.6175pt x 200.75
+pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig5.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig5.png> [4 </home/delivery/Des
+ktop/TVPILatex/Figuras/Fig4.png (PNG copy)> </home/delivery/Desktop/TVPILatex/F
+iguras/Fig5.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig6.png, id=239, 1128.215pt x 773.89
+125pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig6.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig6.png>
+Overfull \hbox (36.0022pt too wide) in paragraph at lines 187--190
+ [][] 
+ []
+
+[5 </home/delivery/Desktop/TVPILatex/Figuras/Fig6.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig7.png, id=244, 712.6625pt x 648.42
+25pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig7.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig7.png>
+</home/delivery/Desktop/TVPILatex/Figuras/Fig8.png, id=245, 498.86375pt x 338.2
+6375pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig8.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig8.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig9.png, id=246, 733.74126pt x 359.3
+425pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig9.png Graphic file (type png)
+
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig9.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig10.png, id=247, 705.63625pt x 949.
+5475pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig10.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig10.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 </home/delivery/Desktop/TVPILatex/Figuras/Fig7.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig11.png, id=252, 501.875pt x 328.22
+626pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig11.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig11.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig12.png, id=253, 966.61125pt x 570.
+13pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig12.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig12.png>
+Overfull \hbox (36.0022pt too wide) in paragraph at lines 256--258
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig13.png, id=254, 489.83pt x 286.068
+76pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig13.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig13.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig14.png, id=255, 405.515pt x 382.42
+876pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig14.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig14.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig15.png, id=256, 709.65125pt x 288.
+07625pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig15.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig15.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig16.png, id=257, 706.64pt x 365.365
+pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig16.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig16.png>
+Overfull \hbox (36.0022pt too wide) in paragraph at lines 286--287
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig17.png, id=258, 646.415pt x 597.23
+125pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig17.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig17.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 </home/delivery/Desktop/TVPILatex/Figuras/Fig8.png (PNG copy)> </home/delive
+ry/Desktop/TVPILatex/Figuras/Fig9.png (PNG copy)>] [8 </home/delivery/Desktop/T
+VPILatex/Figuras/Fig10.png (PNG copy)>] [9 </home/delivery/Desktop/TVPILatex/Fi
+guras/Fig11.png (PNG copy)> </home/delivery/Desktop/TVPILatex/Figuras/Fig12.png
+ (PNG copy)>] [10 </home/delivery/Desktop/TVPILatex/Figuras/Fig13.png (PNG copy
+)> </home/delivery/Desktop/TVPILatex/Figuras/Fig14.png (PNG copy)>] [11 </home/
+delivery/Desktop/TVPILatex/Figuras/Fig15.png (PNG copy)> </home/delivery/Deskto
+p/TVPILatex/Figuras/Fig16.png (PNG copy)>] [12 </home/delivery/Desktop/TVPILate
+x/Figuras/Fig17.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig22.png, id=284, 861.2175pt x 858.2
+0625pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig22.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig22.png>
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 335--337
+ [][] 
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig19.png, id=286, 698.61pt x 365.365
+pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig19.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig19.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig20.png, id=287, 696.6025pt x 406.5
+1875pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig20.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig20.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig21.png, id=288, 339.2675pt x 384.4
+3625pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig21.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig21.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 </home/delivery/Desktop/TVPILatex/Figuras/Fig22.png>] [14 </home/delivery/D
+esktop/TVPILatex/Figuras/Fig19.png (PNG copy)> </home/delivery/Desktop/TVPILate
+x/Figuras/Fig20.png (PNG copy)>] [15 </home/delivery/Desktop/TVPILatex/Figuras/
+Fig21.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\afterassignment' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\f@size' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\afterassignment' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\f@baselineskip' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\f@linespread' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\baselinestretch' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<def>-command' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\font@name' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\T1/ptm/bx/n/8' on input line 376.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 376.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig18.png, id=302, 860.21375pt x 1066
+.98625pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig18.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig18.png>
+Overfull \hbox (36.0022pt too wide) in paragraph at lines 381--383
+ [][] 
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig30.png, id=303, 911.405pt x 613.29
+124pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig30.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig30.png>
+Overfull \hbox (36.0022pt too wide) in paragraph at lines 389--392
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 399.
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--408
+
+ []
+
+[16 </home/delivery/Desktop/TVPILatex/Figuras/Fig18.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig33.png, id=309, 829.0975pt x 296.1
+0625pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig33.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig33.png>
+Overfull \hbox (53.9978pt too wide) in paragraph at lines 417--421
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 </home/delivery/Desktop/TVPILatex/Figuras/Fig30.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 429--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--448
+
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig31.png, id=315, 604.2575pt x 446.6
+6875pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig31.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig31.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig32.png, id=316, 666.49pt x 455.702
+5pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig32.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig32.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 </home/delivery/Desktop/TVPILatex/Figuras/Fig33.png (PNG copy)>] [19 </home
+/delivery/Desktop/TVPILatex/Figuras/Fig31.png (PNG copy)> </home/delivery/Deskt
+op/TVPILatex/Figuras/Fig32.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 482.
+
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 482.
+ [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 562--567
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--567
+
+ []
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 568.
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--570
+
+ []
+
+[22]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig23.png, id=345, 718.685pt x 512.91
+624pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig23.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig23.png>
+Overfull \hbox (53.9978pt too wide) in paragraph at lines 586--588
+ [][] 
+ []
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+) [23 </home/delivery/Desktop/TVPILatex/Figuras/Fig23.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig24.png, id=350, 996.72375pt x 996.
+72375pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig24.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig24.png> [24 </home/delivery/D
+esktop/TVPILatex/Figuras/Fig24.png (PNG copy)>]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig25.png, id=355, 590.205pt x 198.74
+25pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig25.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig25.png>
+</home/delivery/Desktop/TVPILatex/Figuras/Fig26.png, id=356, 659.46375pt x 454.
+69875pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig26.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig26.png> [25 </home/delivery/D
+esktop/TVPILatex/Figuras/Fig25.png (PNG copy)> </home/delivery/Desktop/TVPILate
+x/Figuras/Fig26.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 660--662
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 670--676
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 677--681
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 682--690
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--695
+
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig27.png, id=361, 585.18625pt x 694.
+595pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig27.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig27.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[26] [27 </home/delivery/Desktop/TVPILatex/Figuras/Fig27.png (PNG copy)>]
+[28]
+</home/delivery/Desktop/TVPILatex/Figuras/Fig28.png, id=375, 351.3125pt x 223.8
+3624pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig28.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig28.png>
+Underfull \hbox (badness 10000) in paragraph at lines 792--794
+
+ []
+
+
+</home/delivery/Desktop/TVPILatex/Figuras/Fig29.png, id=376, 590.205pt x 193.72
+375pt>
+File: /home/delivery/Desktop/TVPILatex/Figuras/Fig29.png Graphic file (type png
+)
+ <use /home/delivery/Desktop/TVPILatex/Figuras/Fig29.png>
+Overfull \hbox (36.0022pt too wide) in paragraph at lines 805--806
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29 </home/delivery/Desktop/TVPILatex/Figuras/Fig28.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 818--820
+
+ []
+
+[30 </home/delivery/Desktop/TVPILatex/Figuras/Fig29.png (PNG copy)>] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 849--851
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 852--855
+
+ []
+
+[32] (./TVPI_TP2.aux) ) 
+Here is how much of TeX's memory you used:
+ 6662 strings out of 494999
+ 96967 string characters out of 1180815
+ 170263 words of memory out of 3000000
+ 9595 multiletter control sequences out of 15000+50000
+ 59128 words of font info for 65 fonts, out of 3000000 for 9000
+ 54 hyphenation exceptions out of 8191
+ 38i,7n,45p,335b,594s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
+onts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texmf-texlive/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/
+fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/tim
+es/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TVPI_TP2.pdf (35 pages, 7562824 bytes).
+PDF statistics:
+ 451 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 334 words of extra memory for PDF output out of 10000 (max. 10000000)
+

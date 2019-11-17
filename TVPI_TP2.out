@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Dimensionamiento de una estaci\363n ISDB-Tb}{}
+\BOOKMARK [2][-]{subsection.1.1}{Requerimientos de Dise\361o}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Modificaciones, incorporaci\363n de dispositivos y programaci\363n del modulador para multiprogramaci\363n}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Diagrama en bloques del sistema desde el switcher de generaci\363n de las se\361ales hasta el modulador}{section.1}
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Tecnolog\355as necesarias}{subsection.1.3}
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Enlaces necesarios Estudio - Planta Transmisora Digital}{subsection.1.3}
+\BOOKMARK [2][-]{subsection.1.4}{Configuraci\363n de los par\341metros ISDB-Tb \(Modo - TG\) \046 Programaci\363n del Modulador}{section.1}
+\BOOKMARK [2][-]{subsection.1.5}{Instalaci\363n de los Encoders/Mux/Re-Multiplexor en Canal 10 \(Tx BTS\)}{section.1}
+\BOOKMARK [1][-]{section.2}{Visita a los servicios de Radio y Televisi\363n de la UNC LV80 TV Canal 10\)}{}
+\BOOKMARK [2][-]{subsection.2.1}{Diagrama en bloques emisora}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Partes del Sistema en las que intervienen los conceptos de Colorimetr\355a}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Partes del Sistema donde interviene directamente el Monitor de forma de onda y el Vectorscopio\)}{section.2}
+\BOOKMARK [2][-]{subsection.2.4}{Sistema de ingesta, almacenamiento y distribuci\363n de video y audio}{section.2}
+\BOOKMARK [2][-]{subsection.2.5}{Ecualizadores de Audio y Video}{section.2}
+\BOOKMARK [2][-]{subsection.2.6}{Funcionamiento del Genlock}{section.2}
+\BOOKMARK [2][-]{subsection.2.7}{Switcher Master}{section.2}
+\BOOKMARK [2][-]{subsection.2.8}{Norma anal\363gica empleada por Canal 10 \(Estudios - Producci\363n - Tx\)}{section.2}
+\BOOKMARK [2][-]{subsection.2.9}{Se\361al Compuesta de Video Color en BB y su Transcodificaci\363n}{section.2}
+\BOOKMARK [2][-]{subsection.2.10}{Cableados SDI}{section.2}
+\BOOKMARK [2][-]{subsection.2.11}{CBA24N: Tecnolog\355a y forma de Tx}{section.2}
+\BOOKMARK [1][-]{section.3}{Referencias}{}
